@@ -13,10 +13,13 @@ Project Page | Paper
 
 ---
 
-## 🔍 Attention Correlation Graph
+## 🔍 Graph-based Association Analysis
 
 <img width="1142" alt="Attention Graph" src="https://github.com/user-attachments/assets/23d4589f-cce2-415b-9be7-ee1a15ff491a" />
 
+<h3 align="center">
+  We identified the attention heads that contributed to decision-making of the ViT model based on the morphological features of the liver.
+</h3>
 ---
 
 ## 🎞️ Demo Video
@@ -26,3 +29,4 @@ Your browser does not support the video tag.
 </video>
 
 Code will be public available soon.
+
