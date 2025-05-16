@@ -7,13 +7,13 @@ Project Page | Paper
 - Dataset: [TCIA HCC-TACE-Seg](https://wiki.cancerimagingarchive.net/display/Public/HCC-TACE-Seg](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/))
 - Baseline Model: [ViT (Timm ver 1.0.12)](https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/vision_transformer.py)
 
-## 🧠 Model Architecture
+## Model Architecture
 
 <img width="1073" alt="Model Architecture" src="https://github.com/user-attachments/assets/f4acd3e1-a788-41d2-9fdd-f31a9bb47e8c" />
 
 ---
 
-## 🔍 Graph-based Association Analysis
+## Graph-based Association Analysis
 
 <img width="1142" alt="Attention Graph" src="https://github.com/user-attachments/assets/23d4589f-cce2-415b-9be7-ee1a15ff491a" />
 
@@ -22,7 +22,7 @@ Project Page | Paper
 </h3>
 ---
 
-## 🎞️ Demo Video
+## Demo Video
 
 <video src="https://github.com/user-attachments/assets/db8357e4-c19c-4484-8b91-5d21d9dd99d5" autoplay loop muted playsinline width="700">
 Your browser does not support the video tag.
